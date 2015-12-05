@@ -2,7 +2,7 @@
  * grunt-spec-generator
  * https://github.com/parrivp/grunt-spec-generator
  *
- * Copyright (c) 2015 Parri Ganesan V P
+ * Copyright (c) 2015 Parri Pandian
  * Licensed under the MIT license.
  */
 
